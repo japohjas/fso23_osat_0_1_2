@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+html,
+body {
+  width: 100%;
+  height: auto;
+  font-size: 20px;
+  margin: 20px;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  background-color: rgb(6, 51, 44);
+  color: lightgray;
+}
+
+.personForm {
+  background-color: rgb(1, 77, 35);
+  padding: 10px;
+  width: 40%;
+}
+
+.notification {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
